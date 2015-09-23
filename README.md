@@ -5,6 +5,10 @@ Codeigniter 3.x Authentication Library
 
 Wookie Auth is an Authentication Library for Codeigniter 3.x 
 
+Currently in a 'pre-alpha' stage, as soon as I have built the core features I'll push to this repo and update this document.
+
+In the mean time....
+
 ## Cat In Space
 
 ![alt tag](http://pre09.deviantart.net/5044/th/pre/f/2014/178/f/e/taco_cat_in_space_by_jayro_jones-d7o5mow.jpg)
