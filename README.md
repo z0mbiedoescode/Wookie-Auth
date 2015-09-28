@@ -9,7 +9,7 @@ Currently in a 'pre-alpha' stage, as soon as I have built the core features I'll
 
 In the mean time....
 
-![alt tag](http://s29.postimg.org/7zveb97ut/CKKg_SNi_Ww_AA5_So_E.gif)
+![alt tag](http://pre09.deviantart.net/5044/th/pre/f/2014/178/f/e/taco_cat_in_space_by_jayro_jones-d7o5mow.jpg)
 
 <!--
 ## Code Example
